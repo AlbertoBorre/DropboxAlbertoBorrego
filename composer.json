@@ -1,0 +1,10 @@
+{
+    "config": {
+
+        "platform-check": false
+    },
+
+    "require": {
+        "kunalvarma05/dropbox-php-sdk": "^0.4.2"
+    }
+}
